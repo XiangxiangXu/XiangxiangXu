@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @XiangxiangXu
-- 👀 I’m always interested in learning & exploring the unknowns
+- 👀 I’m always interested in exploring and learning from the unknowns
 - 🌱 I’m currently learning some geometry related aspects
 
 <!---
