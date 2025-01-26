@@ -5,7 +5,8 @@
   - Mathematical relations between different representations: (how different fancy designs capture the same information)
     -  [dependence induced representations](https://xiangxiangxu.com/media/documents/allerton2024.pdf)
   - Simple scripts on guiding DNNs to learn structured & informative representations: (https://github.com/XiangxiangXu/NFE)
-- 💡 some random ideas [xiangxiangxu.github.io](https://xiangxiangxu.github.io/)
+- 📓 Share reading notes on [Alphaxiv](https://xiangxiangxu.alphaxiv.io/).
+- 💡 Some random ideas [xiangxiangxu.github.io](https://xiangxiangxu.github.io/)
 <!---
 XiangxiangXu/XiangxiangXu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
