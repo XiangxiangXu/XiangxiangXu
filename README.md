@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @XiangxiangXu
 - 👀 I’m interested in exploring and learning from the unknowns
 - 🌱 I have been working on understanding and designing representation learning algorithms. Latest updates:
+  - A talk at the Berkeley BLISS seminar [INFO](https://bliss.eecs.berkeley.edu/Seminar/sp25/xiangxiang_xu.html) [VIDEO](https://www.youtube.com/watch?v=s8TylR-I6vY&ab_channel=XiangxiangXu)
   - Neural feature learning in function space: [![blog](https://img.shields.io/badge/blog-gilearning.github.io-black)](https://gilearning.github.io/), [the JMLR paper](https://jmlr.org/papers/v25/23-1202.html)
   - Mathematical relations between different representations: (how different fancy designs capture the same information)
     -  [dependence induced representations](https://xiangxiangxu.com/media/documents/allerton2024.pdf)
